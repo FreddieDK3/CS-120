@@ -1,0 +1,178 @@
+[
+    {
+        "personal_info": {
+            "name": [
+                "Chinyemba"
+            ],
+            "surname": [
+                "Kalenga"
+            ],
+            "email": [
+                "ckalenga@gsumail.gram.edu"
+            ]
+        },
+        "health_data": {
+            "reason": [
+                "blurry-vision"
+            ],
+            "severity": [
+                "10246"
+            ],
+            "where": [
+                "OS"
+            ],
+            "onset": [
+                ""
+            ],
+            "eye-exam": [
+                "no"
+            ],
+            "surgeries": [
+                "none"
+            ],
+            "allergies": [
+                "animal-dander",
+                "mold"
+            ],
+            "ocular-histr-fam": [
+                "cataract",
+                "glaucoma",
+                "blindness"
+            ],
+            "ocular-histr-self": [
+                "glaucoma"
+            ],
+            "medical-histr-self": [
+                "diabetes",
+                "hypertension"
+            ],
+            "medical-histr-fam": [
+                "diabetes",
+                "auto-immune"
+            ],
+            "lifestyle": [
+                "drugs"
+            ],
+            "screentime>6h": [
+                "no"
+            ]
+        }
+    },
+    {
+        "personal_info": {
+            "name": [
+                "Mir"
+            ],
+            "surname": [
+                "Ali"
+            ],
+            "email": [
+                "mali2@gsumail.gram.edu"
+            ]
+        },
+        "health_data": {
+            "reason": [
+                "blurry-vision",
+                "eye-pain"
+            ],
+            "where": [
+                "OS"
+            ],
+            "onset": [
+                "2024-11-13"
+            ],
+            "eye-exam": [
+                "never"
+            ],
+            "surgeries": [
+                "none"
+            ],
+            "allergies": [
+                "animal-dander",
+                "mold"
+            ],
+            "ocular-histr-self": [
+                "cataract",
+                "blindness"
+            ],
+            "ocular-histr-fam": [
+                "blindness"
+            ],
+            "medical-histr-self": [
+                "hypertension"
+            ],
+            "medical-histr-fam": [
+                "hypertension"
+            ],
+            "lifestyle": [
+                "none"
+            ],
+            "screentime>6h": [
+                "yes"
+            ]
+        }
+    },
+    {
+        "personal_info": {
+            "name": [
+                "Jane"
+            ],
+            "surname": [
+                "Doe"
+            ],
+            "email": [
+                "jane.doe@example.com"
+            ]
+        },
+        "health_data": {
+            "reason": [
+                "redness",
+                "blurry-vision"
+            ],
+            "severity": [
+                "10247"
+            ],
+            "where": [
+                "OS"
+            ],
+            "onset": [
+                ""
+            ],
+            "eye-exam": [
+                "no"
+            ],
+            "surgeries": [
+                "none"
+            ],
+            "allergies": [
+                "animal-dander",
+                "mold",
+                "mold"
+            ],
+            "ocular-histr-fam": [
+                "cataract",
+                "other"
+            ],
+            "ocular-histr-self": [
+                "glaucoma",
+                "other"
+            ],
+            "medical-histr-fam": [
+                "diabetes",
+                "other"
+            ],
+            "medical-histr-self": [
+                "hypertension",
+                "other"
+            ],
+            "lifestyle": [
+                "alchohol",
+                "drugs",
+                "smoke"
+            ],
+            "screentime>6h": [
+                "never"
+            ]
+        }
+    }
+]

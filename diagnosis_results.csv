@@ -1,0 +1,3 @@
+patient_id,diagnosis,icd_code,prescription,cpt_code,Eye,Onset_date,Diagnosis_status,SOD,Severity
+1,Red Eye,H578A1,Lubricating eye drops,92015,None,None,Active,Acute,10247
+2,Unknown,DNE,Unknown,DNE,None,None,Unknown,Unknown,Unknown
